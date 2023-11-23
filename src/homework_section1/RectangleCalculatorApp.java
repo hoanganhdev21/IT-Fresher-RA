@@ -22,6 +22,7 @@ public class RectangleCalculatorApp {
         System.out.println("Diện tích của hình chữ nhật là: " + area);
     }
 
+    // Hàm tính toán chu vi và diện tích
     public static double calculatePerimeter(double length, double width) {
         // Chu vi = 2 * (chiều dài + chiều rộng)
         return 2 * (length + width);
