@@ -1,4 +1,4 @@
-package ra.entity;
+package Section6_Oops.RA.Entity;
 
 import java.util.Scanner;
 

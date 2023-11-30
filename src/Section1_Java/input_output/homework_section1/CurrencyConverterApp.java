@@ -1,4 +1,4 @@
-package homework_section1;
+package Section1_Java.input_output.homework_section1;
 
 import java.util.Scanner;
 

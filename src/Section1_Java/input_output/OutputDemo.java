@@ -1,4 +1,4 @@
-package input_output;
+package Section1_Java.input_output;
 
 public class OutputDemo {
     public static void main(String[] args) {
