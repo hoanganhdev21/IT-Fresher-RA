@@ -1,5 +1,6 @@
 package Section9_Abstraction.ra.business;
 
+import Section9_Abstraction.ra.businessImp.Employee;
 import java.util.Scanner;
 
 public interface IEmployee {
@@ -8,4 +9,6 @@ public interface IEmployee {
     void inputData(Scanner scanner);
 
     void displayData();
+
+    int compareTo(Employee other);
 }

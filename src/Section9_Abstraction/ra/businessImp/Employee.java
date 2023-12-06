@@ -114,7 +114,15 @@ public class Employee implements IEmployee {
         System.out.println("Trạng thái: " + (status ? "Đang làm việc" : "Nghỉ việc"));
     }
 
+    @Override
+    public int compareTo(Employee other) {
+        // Sắp xếp theo lương tăng dần
+        return Float.compare(this.getSalary(), other.getSalary());
+    }
+
     public void calSalary() {
         salary = rate * IEmployee.BASIC_SALARY + commission;
     }
+
+
 }
