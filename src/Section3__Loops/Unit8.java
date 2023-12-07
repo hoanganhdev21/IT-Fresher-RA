@@ -12,9 +12,9 @@ public class Unit8 {
             System.out.println("**********************PRACTICE**********************");
             System.out.println("1. In dãy số chia hết cho 2 và giảm dần (n >= số >= 2)");
             System.out.println("2. In các số nhỏ hơn n và tính tổng");
-            System.out.println("3. In ra_exercise các ước số chẵn của n");
-            System.out.println("4. In ra_exercise các ước số lẻ và số lượng các ước lẻ của n");
-            System.out.println("5. In ra_exercise ước số lẻ lớn nhất của n");
+            System.out.println("3. In RA_Exercise các ước số chẵn của n");
+            System.out.println("4. In RA_Exercise các ước số lẻ và số lượng các ước lẻ của n");
+            System.out.println("5. In RA_Exercise ước số lẻ lớn nhất của n");
             System.out.println("6. Thoát");
             System.out.print("Lựa chọn của bạn: ");
             opt = scanner.nextInt();

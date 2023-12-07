@@ -1,6 +1,6 @@
-package Section9_Abstraction.ra_exercise.businessImp;
+package Section9_Abstraction.RA_Exercise.businessImp;
 
-import Section9_Abstraction.ra_exercise.business.IEmployee;
+import Section9_Abstraction.RA_Exercise.business.IEmployee;
 
 import java.util.Scanner;
 

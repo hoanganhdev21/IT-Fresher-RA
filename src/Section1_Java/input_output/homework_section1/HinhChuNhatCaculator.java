@@ -19,7 +19,7 @@ public class HinhChuNhatCaculator {
         double chuVi = 2 * (chieuDai + chieuRong);
         double dienTich = chieuDai * chieuRong;
 
-        // In kết quả ra_exercise màn hình console
+        // In kết quả RA_Exercise màn hình console
         System.out.println("Chu vi của hình chữ nhật là: " + chuVi);
         System.out.println("Diện tích của hình chữ nhật là: " + dienTich);
 

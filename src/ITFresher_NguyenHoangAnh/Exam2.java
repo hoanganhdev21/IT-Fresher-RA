@@ -26,7 +26,7 @@ public class Exam2 {
             System.out.println("3. Tính số lượng các phần tử chia hết cho 2 và 3 trong mảng");
             System.out.println("4. In các phần tử và tổng các phần tử nằm trên đường biên, đường chéo chính và đường chéo phụ");
             System.out.println("5. Sử dụng thuật toán sắp xếp lựa chọn sắp xếp các phần tử tăng dần theo cột của mảng");
-            System.out.println("6. In ra_exercise các phần tử là số nguyên tố trong mảng");
+            System.out.println("6. In RA_Exercise các phần tử là số nguyên tố trong mảng");
             System.out.println("7. Sử dụng thuật toán chèn (Insertion sort) sắp xếp các phần tử trên đường chéo chính của mảng giảm dần");
             System.out.println("8. Nhập giá trị một mảng 1 chiều gồm m phần tử và chỉ số dòng muốn chèn vào mảng");
             System.out.println("9. Thoát");
@@ -100,7 +100,7 @@ public class Exam2 {
                             }
                         }
                     }
-                    // In ra_exercise ma trận sau khi đã sắp xếp
+                    // In RA_Exercise ma trận sau khi đã sắp xếp
                     for (int i = 0; i < cols; i++) {
                         for (int j = 0; j < rows; j++) {
                             System.out.print(arr[i][j] + " ");

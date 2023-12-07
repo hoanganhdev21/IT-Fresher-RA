@@ -46,7 +46,7 @@ public class Unit9 {
             mid = num3;
         }
 
-        // In ra_exercise 3 số theo thứ tự giảm dần
+        // In RA_Exercise 3 số theo thứ tự giảm dần
         System.out.println("Số theo thứ tự giảm dần: " + max + " " + mid + " " + min);
     }
 }

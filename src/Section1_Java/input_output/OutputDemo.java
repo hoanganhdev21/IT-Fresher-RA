@@ -2,11 +2,11 @@ package Section1_Java.input_output;
 
 public class OutputDemo {
     public static void main(String[] args) {
-        //1. In ra_exercise chuỗi Rikkei Academy, in xong không xuống dòng
+        //1. In RA_Exercise chuỗi Rikkei Academy, in xong không xuống dòng
         System.out.print("Rikkei Academy ");
-        //2. In ra_exercise chuỗi Xin chào các bạn lớp IT-Fresher, in xong xuống dòng
+        //2. In RA_Exercise chuỗi Xin chào các bạn lớp IT-Fresher, in xong xuống dòng
         System.out.println("xin chào các bạn lớp IT-Fresher");
-        //3. Khai báo và khơi tạo giá trị biến tên sinh viên và tuổi sinh viên và in ra_exercise
+        //3. Khai báo và khơi tạo giá trị biến tên sinh viên và tuổi sinh viên và in RA_Exercise
         String studentName = "Nguyễn Văn A";
         int age = 20;
         //System.out.printf("Control String",value1,value2...)

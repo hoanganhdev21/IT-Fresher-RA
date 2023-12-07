@@ -57,3 +57,10 @@ public class Main {
         int a = (int)5.8F;
     }
 }
+
+//    git init
+//    git add .
+//    git commit -m "first commit"
+//    git branch -M main
+//    git remote add origin https://github.com/hoanganhdeveloper2k1/IT-Fresher-RA.git
+//    git push -u origin main

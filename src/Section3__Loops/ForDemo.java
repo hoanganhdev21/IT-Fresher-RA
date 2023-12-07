@@ -2,7 +2,7 @@ package Section3__Loops;
 
 public class ForDemo {
     public static void main(String[] args) {
-        //1.In ra_exercise cac so chan tu 1-10
+        //1.In RA_Exercise cac so chan tu 1-10
         System.out.println("Cac so chan trong khoang 1-10:");
         for (int i = 1; i <= 10; i++) {
             if (i % 2 == 0) {
@@ -10,7 +10,7 @@ public class ForDemo {
             }
         }
         System.out.printf("\n");
-        //2.In ra_exercise cac so le giam dan trong khoang 10-1
+        //2.In RA_Exercise cac so le giam dan trong khoang 10-1
         System.out.println("Cac so le trong khoang 10-1 giam dan:");
         for (int i = 10; i >= 1; i--) {
             if (i % 2 != 0) {
@@ -18,7 +18,7 @@ public class ForDemo {
             }
         }
         System.out.printf("\n");
-        //3. In ra_exercise cac so chan bat dau tu 2 va nho hon 50, khong duoc su dung if
+        //3. In RA_Exercise cac so chan bat dau tu 2 va nho hon 50, khong duoc su dung if
         System.out.println("Cac so chan tu 2 va nho hon 50:");
         for (int i = 2; i < 50; i += 2) {
             System.out.printf("%d\t", i);
@@ -31,7 +31,7 @@ public class ForDemo {
         }
         System.out.println("Diem trung binh trong khoang 0-10 la: " + i);
         //5. Vong for duoc su dung khi biet truoc so lan lap
-        //6. In ra_exercise cac so chia het cho 3 va 5, tinh tong cac so do biet so do nam trong khoang 1-100
+        //6. In RA_Exercise cac so chia het cho 3 va 5, tinh tong cac so do biet so do nam trong khoang 1-100
         int sum = 0;
         System.out.println("Cac so chia het cho 3 va 5 trong khoang 1-100:");
         for (int k = 1; k <= 100; k++) {

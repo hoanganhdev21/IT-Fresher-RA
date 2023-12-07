@@ -23,7 +23,7 @@ public class DiemTrungBinhCaculator {
         double tongDiem = diemToan + diemVan + diemAnh;
         double diemTrungBinh = tongDiem / 3;
 
-        // In kết quả ra_exercise màn hình console với định dạng số thập phân
+        // In kết quả RA_Exercise màn hình console với định dạng số thập phân
         System.out.printf("Tổng điểm là: %.2f\n", tongDiem);
         System.out.printf("Điểm trung bình là: %.2f\n", diemTrungBinh);
 

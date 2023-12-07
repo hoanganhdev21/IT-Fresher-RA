@@ -14,7 +14,7 @@ public class NhapVaoSoNguyen {
         // Tính bình phương
         int binhPhuong = soNguyen * soNguyen;
 
-        // In kết quả ra_exercise màn hình console
+        // In kết quả RA_Exercise màn hình console
         System.out.println("Bình phương của " + soNguyen + " là " + binhPhuong);
 
     }
