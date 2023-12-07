@@ -14,7 +14,7 @@ public class if_elseif_else {
             System.out.printf("%d Là sỗ chẵn\n", number);
         }*/
 
-        // 2. In ra số dư trong phép chia 3
+        // 2. In ra_exercise số dư trong phép chia 3
         /*if (number %3==0){
             System.out.printf("%d Là sỗ chia hết cho 3\n", number);
         } else if (number %3==1) {
@@ -23,7 +23,7 @@ public class if_elseif_else {
             System.out.printf("%d Là sỗ chia hết cho 3 dư 2\n", number);
         }*/
 
-        // 3. Sử dụng if else if và else in ra số dư trong phép chia 5
+        // 3. Sử dụng if else if và else in ra_exercise số dư trong phép chia 5
         /*if (number % 5 == 0){
             System.out.printf("%d La so chia het cho 5 \n", number);
         }else if (number % 5 == 1) {

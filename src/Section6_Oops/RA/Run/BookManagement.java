@@ -1,6 +1,6 @@
 //package Section6_Oops.RA.Run;
 //
-//import ra.entity.Book;
+//import ra_exercise.entity.Book;
 //
 //import java.util.Scanner;
 //

@@ -7,7 +7,7 @@ public class Loop_for {
 
     // In menu và thực hiện các chức năng theo menu sau
     //        // 1. Nhập vào một số nguyên
-    //        // 2. In ra các số chăn từ 1 - n
+    //        // 2. In ra_exercise các số chăn từ 1 - n
     //        // 3. Kiểm tra n có phải là số nguyên t không
     //        // 4. Kiểm tra N có phải là số hoàn hảo không
     //        // 5. Thoát
@@ -19,7 +19,7 @@ public class Loop_for {
         do {
             System.out.println("<<<<<<<<<<<<<<< MENU >>>>>>>>>>>>>>>>>>");
             System.out.println("1. Nhập vào một số nguyên");
-            System.out.println("2. In ra các số chẵn từ 1 đến n");
+            System.out.println("2. In ra_exercise các số chẵn từ 1 đến n");
             System.out.println("3. Kiểm tra n có phải là số nguyên tố không");
             System.out.println("4. Kiểm tra n có phải là số hoàn hảo không");
             System.out.println("5. Thoát");

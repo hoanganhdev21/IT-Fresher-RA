@@ -8,7 +8,7 @@ public class ExerciseDemo {
          * In menu va thuc hien cac chuc nang theo menu sau:
          * *****************MENU*********************
          * 1. Nhap vao 1 so nguyen (n)
-         * 2. In ra cac so chan tu 1 - n va tinh tong
+         * 2. In ra_exercise cac so chan tu 1 - n va tinh tong
          * 3. Kiem tra n co phai so nguyen to khong
          * 4. Kiem tra n co phai so hoan hao khong
          * 5. Thoat
@@ -19,7 +19,7 @@ public class ExerciseDemo {
         do {
             System.out.println("**********MENU**************");
             System.out.println("1. Nhap so nguyen");
-            System.out.println("2. In ra cac so chan trong 1-n va tinh tong");
+            System.out.println("2. In ra_exercise cac so chan trong 1-n va tinh tong");
             System.out.println("3. Kiem tra so nguyen to");
             System.out.println("4. Kiem tra so hoan hao");
             System.out.println("5. Thoat");

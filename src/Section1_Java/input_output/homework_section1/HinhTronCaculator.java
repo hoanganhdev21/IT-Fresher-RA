@@ -15,7 +15,7 @@ public class HinhTronCaculator {
         double chuVi = 2 * Math.PI * banKinh;
         double dienTich = Math.PI * Math.pow(banKinh, 2);
 
-        // In kết quả ra màn hình console với định dạng số thập phân
+        // In kết quả ra_exercise màn hình console với định dạng số thập phân
         System.out.printf("Chu vi của hình tròn là: %.2f\n", chuVi);
         System.out.printf("Diện tích của hình tròn là: %.2f\n", dienTich);
 

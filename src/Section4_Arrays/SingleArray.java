@@ -9,9 +9,9 @@ public class SingleArray {
         //2. Khai báo và khởi tạo mảng số thực gồm các phần tử có giá trị 3.1, 5.8, -9.2
         //- Datatype[] arrayName = {value1, value2,..., valueN}
         float[] arrFloat = {3.1F, 5.8F, -9.2F};
-        //3. In ra giá trị phần tử có chỉ số 1 trong mảng arrFloat
+        //3. In ra_exercise giá trị phần tử có chỉ số 1 trong mảng arrFloat
         System.out.println("Giá trị phần tử có chỉ số 1 trong arrFloat là: " + arrFloat[1]);
-        //4. In ra giá trị phần tử có chỉ số là 3 trong mảng arrFloat
+        //4. In ra_exercise giá trị phần tử có chỉ số là 3 trong mảng arrFloat
         //System.out.println("Giá trị phần t có chỉ số 3 trong arrFloat là: " + arrFloat[3]);
         //5. Nhập giá trị các phần tử mảng numbers
         Scanner scanner = new Scanner(System.in);

@@ -17,7 +17,7 @@ public class TinhTuoi {
         // Kiểm tra tuổi là chẵn hay lẻ
         String loaiTuoi = (tuoi % 2 == 0) ? "chẵn" : "lẻ";
 
-        // In kết quả ra màn hình console
+        // In kết quả ra_exercise màn hình console
         System.out.println("Tuổi của bạn là: " + tuoi + " và là tuổi " + loaiTuoi);
 
     }

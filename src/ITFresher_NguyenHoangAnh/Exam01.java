@@ -13,7 +13,7 @@ public class Exam01 {
             System.out.println("1. Nhập giá trị n phần tử của mảng (n nhập từ bàn phím)");
             System.out.println("2. In giá trị các phần tử trong mảng");
             System.out.println("3. Tính trung bình các phần tử dương (>0) trong mảng");
-            System.out.println("4. In ra vị trí (chỉ số) các phần tử có giá trị bằng k trong mảng (k nhập từ bàn phím)");
+            System.out.println("4. In ra_exercise vị trí (chỉ số) các phần tử có giá trị bằng k trong mảng (k nhập từ bàn phím)");
             System.out.println("5. Sử dụng thuật toán sắp xếp nổi bọt sắp xếp mảng giảm dần");
             System.out.println("6. Tính số lượng các phần tử là số nguyên tố trong mảng");
             System.out.println("7. Sắp xếp các phần tử chẵn chia hết cho 3 ở đầu mảng theo thứ tự tăng dần, các phần tử lẻ chia hết cho 3 ở cuối mảng theo thứ tự giảm dần, các phần tử còn lại ở giữa mảng theo thứ tự tăng dần");
@@ -57,7 +57,7 @@ public class Exam01 {
                     }
                     break;
                 case 4:
-                    // In ra vị trí (chỉ số) các phần tử có giá trị bằng k trong mảng
+                    // In ra_exercise vị trí (chỉ số) các phần tử có giá trị bằng k trong mảng
                     System.out.print("Nhập giá trị k cần tìm: ");
                     int k = scanner.nextInt();
 

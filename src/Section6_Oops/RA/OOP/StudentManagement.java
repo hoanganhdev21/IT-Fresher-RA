@@ -11,7 +11,7 @@ public class StudentManagement {
         Students student2 = new Students("SV002", "Nguyễn Văn B");
         //3. Khởi tạo đối tượng sinh viên có tên student3 và khởi tạo tất cả thông tin sinh viên
         Students student3 = new Students("SV003", "Nguyễn Văn C", 25, true, 8.7F);
-        //4. In ra tên của sinh viên 3
+        //4. In ra_exercise tên của sinh viên 3
         System.out.println("Tên sinh viên 3: "+student3.getStudentName());
         //5. Nhập thông tin cho sinh viên 1
         Scanner scanner = new Scanner(System.in);
@@ -26,7 +26,7 @@ public class StudentManagement {
         System.out.println("Nhập vào điểm trung bình của sinh viên 2:");
         student2.setAvgMark(Float.parseFloat(scanner.nextLine()));
 
-        //In ra thông tin các đối tượng
+        //In ra_exercise thông tin các đối tượng
         System.out.println("THÔNG TIN ĐỐI TƯỢNG SINH VIÊN 1:");
         student1.displayData();
         System.out.println("THÔNG TIN ĐỐI TƯỢNG SINH VIÊN 2:");

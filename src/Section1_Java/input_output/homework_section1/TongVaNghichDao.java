@@ -34,7 +34,7 @@ public class TongVaNghichDao {
                 temp /= 10;
             }
 
-            // In kết quả ra màn hình console
+            // In kết quả ra_exercise màn hình console
             System.out.println("Tổng các chữ số là: " + tongChuSo);
             System.out.println("Số nghịch đảo là: " + soNghichDao);
         } else {

@@ -21,7 +21,7 @@ public class MinMaxFinder {
         int max = Math.max(soNguyen1, Math.max(soNguyen2, soNguyen3));
         int min = Math.min(soNguyen1, Math.min(soNguyen2, soNguyen3));
 
-        // In kết quả ra màn hình console
+        // In kết quả ra_exercise màn hình console
         System.out.println("Số nguyên lớn nhất là: " + max);
         System.out.println("Số nguyên nhỏ nhất là: " + min);
 
