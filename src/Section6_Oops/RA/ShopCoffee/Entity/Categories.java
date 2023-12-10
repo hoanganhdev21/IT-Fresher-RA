@@ -146,4 +146,5 @@ public class Categories {
         boolean newCatelogStatus = Boolean.parseBoolean(scanner.nextLine());
         arrCategories[indexToUpdate].setCatelogStatus(newCatelogStatus);
     }
+
 }
